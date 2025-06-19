@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+pystrict/__init__.py
+pystrict/behavior.py
+pystrict/interface.py
+pystrict/structure.py
+pystrict/visibility.py
+pystrict.egg-info/PKG-INFO
+pystrict.egg-info/SOURCES.txt
+pystrict.egg-info/dependency_links.txt
+pystrict.egg-info/top_level.txt
